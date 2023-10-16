@@ -1,0 +1,22 @@
+{
+  "name": "ecommerce_backend_treatment",
+  "version": "1.0.0",
+  "description": "testing phase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Final project"
+  },
+  "keywords": [
+    "ecommerce"
+  ],
+  "author": "ABR TEAM",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "npx": "^10.2.2"
+  }
+}
